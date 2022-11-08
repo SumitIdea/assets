@@ -9,7 +9,7 @@
 6. After installed You will able to create project and run the project.
 
 
-Visual Studio Code
+       Visual Studio Code
 
 
 1. CTRL + E -> Recently opened files pop-up: 

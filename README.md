@@ -1,4 +1,4 @@
-# assets
+# React Native
              	Installation process of React Native
 
 1. Download JDK and set the enviroment of jdk, javapath, sdk/platform-tools and adb.
